@@ -1,0 +1,27 @@
+* {
+    color: gray;
+}
+
+hr {
+    width: 50%;
+}
+
+.circle {
+    background-color: lightslategray;
+    opacity:10%;
+    width: 70px;
+    height: 70px;
+    border-radius:50%;
+}
+
+i {
+    color: orange;
+    opacity: 100%;
+    width:70px;
+    height:70px;
+}
+
+p {
+    color: gray;
+    opacity:80%;
+}
