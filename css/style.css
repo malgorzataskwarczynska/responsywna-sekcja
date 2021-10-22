@@ -19,9 +19,9 @@ i {
     opacity: 100%;
     width:70px;
     height:70px;
+    font-size: 50px;
 }
 
 p {
     color: gray;
-    opacity:80%;
 }
